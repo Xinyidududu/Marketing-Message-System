@@ -1,0 +1,31 @@
+Time:1|SenderID:1.0|DeletedBySender:Yes|ReceiverID:2|DeletedByReceiver:No|Message:edit message test there
+Time:2|SenderID:2|DeletedBySender:No|ReceiverID:1.0|DeletedByReceiver:No|Message:how are you
+Time:3|SenderID:2|DeletedBySender:No|ReceiverID:3.3|DeletedByReceiver:No|Message:can i buy the brick
+Time:3|SenderID:1.0|DeletedBySender:Yes|ReceiverID:4|DeletedByReceiver:No|Message:testing changed
+Time:4|SenderID:1.0|DeletedBySender:Yes|ReceiverID:2|DeletedByReceiver:No|Message:testing changed
+Time:5|SenderID:1.0|DeletedBySender:No|ReceiverID:2|DeletedByReceiver:No|Message:bdafih
+Time:4|SenderID:1.0|DeletedBySender:Yes|ReceiverID:2|DeletedByReceiver:No|Message:testing changed
+Time:5|SenderID:1.0|DeletedBySender:No|ReceiverID:2|DeletedByReceiver:No|Message:bdafih
+Time:9|SenderID:1.0|DeletedBySender:No|ReceiverID:2|DeletedByReceiver:No|Message:bhdi
+Time:9|SenderID:2|DeletedBySender:No|ReceiverID:1.1|DeletedByReceiver:No|Message:fbejdaj
+Time:11|SenderID:2|DeletedBySender:No|ReceiverID:1.2|DeletedByReceiver:No|Message:fgydiba
+Time:12|SenderID:2|DeletedBySender:No|ReceiverID:1.2|DeletedByReceiver:No|Message:fdyibhs
+Time:13|SenderID:2|DeletedBySender:No|ReceiverID:1.2|DeletedByReceiver:No|Message:fdbhisf
+Time:14|SenderID:2|DeletedBySender:No|ReceiverID:1.2|DeletedByReceiver:No|Message:ufbdhaio
+Time:15|SenderID:2|DeletedBySender:No|ReceiverID:1.2|DeletedByReceiver:Yes|Message: dibaf usfdabfo
+Time:16|SenderID:2|DeletedBySender:No|ReceiverID:1.2|DeletedByReceiver:No|Message:store
+Time:17|SenderID:2|DeletedBySender:No|ReceiverID:1.2|DeletedByReceiver:No|Message:store
+Time:18|SenderID:2|DeletedBySender:No|ReceiverID:1|DeletedByReceiver:No|Message:testing changed
+Time:19|SenderID:2|DeletedBySender:No|ReceiverID:7|DeletedByReceiver:No|Message:still testing
+Time:20|SenderID:6|DeletedBySender:No|ReceiverID:6|DeletedByReceiver:No|Message:????
+Time:21|SenderID:2|DeletedBySender:No|ReceiverID:7.0|DeletedByReceiver:No|Message:Wooow
+Time:22|SenderID:2|DeletedBySender:No|ReceiverID:1.2|DeletedByReceiver:No|Message:hi store
+Time:23|SenderID:1.0|DeletedBySender:Yes|ReceiverID:6|DeletedByReceiver:No|Message:edit message test
+Time:24|SenderID:1.0|DeletedBySender:Yes|ReceiverID:4|DeletedByReceiver:No|Message:edit message test
+Time:25|SenderID:1.0|DeletedBySender:No|ReceiverID:6|DeletedByReceiver:No|Message:how are you
+Time:26|SenderID:3.0|DeletedBySender:No|ReceiverID:6|DeletedByReceiver:No|Message:sajceac
+Time:27|SenderID:1.0|DeletedBySender:No|ReceiverID:6|DeletedByReceiver:No|Message:Do you need any recommendation?
+Time:28|SenderID:4|DeletedBySender:No|ReceiverID:7.0|DeletedByReceiver:No|Message:message test
+Time:29|SenderID:4|DeletedBySender:No|ReceiverID:1.2|DeletedByReceiver:No|Message:test
+Time:30|SenderID:1.0|DeletedBySender:No|ReceiverID:6|DeletedByReceiver:No|Message:edit message test
+Time:31|SenderID:4|DeletedBySender:No|ReceiverID:1.0|DeletedByReceiver:No|Message:hello

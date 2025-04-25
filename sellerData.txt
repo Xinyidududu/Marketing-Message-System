@@ -1,0 +1,23 @@
+Seller<ID:1|Username:sniggystores|Email:s@g|Password:dududu|wasBlockedBy:2,2,4|hasBlocked:5,-1|seesAsInvisible:4|number of stores:4>
+Store<ID:1,Name:Snig Store>
+4,6,2
+25,20,2
+example,of,words,in,file,hello,fbejdaj
+4,1,86,3,2,1,1
+Store<ID:2,Name:Sniggy other Store>
+4,6,2
+26,20,8
+example,of,words,in,file,fgydiba,fdyibhs,fdbhisf,ufbdhaio,,dibaf,usfdabfo,store,hi,celcc,test
+4,1,86,3,2,1,1,1,1,1,1,1,3,1,1,1
+Store<ID:3,Name:goody>
+0
+0
+0
+0
+Store<ID:4,Name:happyStore>
+0
+0
+0
+0
+Seller<ID:3|Username:marissa|Email:m@g|Password:boop|wasBlockedBy:2,2,4|hasBlocked:|seesAsInvisible:|number of stores:0>
+Seller<ID:7|Username:tesfsdter|Email:tmfd@g|Password:botop|wasBlockedBy:2,2,4|hasBlocked:|seesAsInvisible:|number of stores:0>
